@@ -37,6 +37,7 @@ Text-Adventure/
 ## 🤝 Contribution
 
 C'est un projet personnel, mais les suggestions sont les bienvenues!
+J'améliorais le jeu si il y a des problèmes ou des choses à ajouter.
 
 ## 📄 License
 
