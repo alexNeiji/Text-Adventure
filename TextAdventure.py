@@ -1,5 +1,4 @@
 def ask_input(prompt):
-    """Fonction pour demander une saisie avec vérification 'quit'"""
     reponse = input(prompt)
     if reponse == "quit":
         print("Au revoir!")
@@ -105,7 +104,6 @@ def main():
                 print("Vous remarquez maintenant que vous êtes sur une chaise électrique, et que la personne est un scientifique fou qui veut vous électrocuter pour ses expériences.")
                 print("Malheuresement, vous aviez dejà grillé, c'était trop tard.")              
 
-# Boucle pour relancer le jeu
 while True:
     main()
     print("\n" + "="*50 + "\n")
